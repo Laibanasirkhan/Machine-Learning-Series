@@ -58,10 +58,11 @@ How to Use
 3. Explore each notebook in order to follow the learning flow  
 
 About This Series
-I created this series to strengthen my ML fundamentals and help beginners learn through clear, practical examples.  
+I created this series to strengthen my ML fundamentals and help beginners learn through clear, practical examples. 
+This Machine Learning series was created while learning from CampusX, whose structured and practical videos helped strengthen my concepts throughout this journey.
+
 
 Laiba Nasir 
 AI Student  
-
 
 ## ⭐ If you find this helpful, feel free to star the repo!
